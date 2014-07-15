@@ -7,7 +7,7 @@
 * Last release 0.0.1: [Compressed](http://angular-ui.github.io/ui-router/release/angular-ui-router.min.js) / [Uncompressed](http://angular-ui.github.io/ui-router/release/angular-ui-router.js)
 ыфвавы
 
-**Warning:** UI-Router is in active development. The API is highly subject tasdfasdfasdfo change. It is not recommended to use this library on projects that require guaranteed stability. 
+**Warning:** UI-Router is in active development. The API is highly subject tasdfasdfasdfo change. аыфвIt is not recommended to use this library on projects that require guaranteed stability. 
 
 ## Main Goal
 To evolve the concept of an [angularjs](http://angularjs.org/) [***route***](http://docs.angularjs.org/api/ng.$routeProvider) into a more general concept of a ***state*** for managing complex application UI states.
