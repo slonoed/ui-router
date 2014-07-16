@@ -11,7 +11,7 @@
 
 ## Main Goal
 To evolve the concept of an [angularjs](http://angularjs.org/) [***route***](http://docs.angularjs.org/api/ng.$routeProvider) into a more general concept of a ***state*** for managing complex application UI states.
-
+мвам
 ## Main Featuresфыва
 1. **Robust State Management**
 >`$state` and `$stateProvider`
